@@ -1,0 +1,5 @@
+{
+  "name": "Copy of X-Ray Vision AI Skillcred Project",
+  "description": "An application that allows users to upload an X-ray image and receive AI-powered diagnosis probabilities with attention map explanations for educational purposes.",
+  "requestFramePermissions": []
+}
